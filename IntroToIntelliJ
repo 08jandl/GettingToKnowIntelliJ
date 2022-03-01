@@ -1,0 +1,52 @@
+1. Creating a new project:
+    File -> New -> Project -> (SDK configured) Next -> check "create project from template" -> Next -> name your project / package -> Finish
+
+2. Project Structure
+    src
+    packages
+    classes
+
+3. Short Cuts:
+    rename = Shift + F6
+    comment out code = Cmd + Shift + 7
+    reformat code = Cmd + Alt + l
+    duplicate line = Cmd + d
+    create variable = Cmd + Alt + v
+    import class = Alt + Enter
+    generate code = Alt + Insert
+    sout + Tab
+    main + Tab
+
+4.  Classes
+    class name
+    main method - runnable class
+    variables -> declare & initialize
+    System.out.println
+    Hello World!
+    methods
+
+5. Git
+    in-built terminal
+    connect to your GitHub account
+        VCS -> enable VCS -> select Git -> sign in
+        File -> Settings -> Version control -> add account -> sing in
+    clone a project
+    zip a project ( + open project)
+    create a branch
+    fetch, update, pull, commit(!), push
+
+6. IntelliJ
+    Integrated Development Environment
+    helps by doing things in the background (creates project structure)
+    helps us to find mistakes
+    comments /*, //, TODO, FIXME
+    color coding (e.g. unused code)
+    expand all / find file / collapse all
+
+7. Debugging
+    bug
+    breakpoints
+    helps to find errors but also to follow the code
+
+    
+
